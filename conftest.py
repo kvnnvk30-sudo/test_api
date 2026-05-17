@@ -1,4 +1,4 @@
-import pytest
+git add .gitignore conftest.py test_api.pyimport pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
